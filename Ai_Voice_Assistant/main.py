@@ -51,7 +51,7 @@ class WizzenMainClass(QThread):
 
     def gpt(self):
         try:
-            genai.configure(api_key=("AIzaSyAtN_cxBNJ533FV9i8kcYyJhhjenanFzmg"))  # Use env variable for security
+            genai.configure(api_key=("YOUR_API_KEY"))  
 
             generation_config = {
                 "temperature": 1,
