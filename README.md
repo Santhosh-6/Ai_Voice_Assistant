@@ -58,8 +58,8 @@
 **Wizzen** — AI Voice Assistant  
 Developed with passion by:
 
--  [Santhosh]
--  [Dhivakar] 
+-  **Santhosh** 
+-  **Dhivakar** 
 
 Special thanks to:
 - The open-source community
