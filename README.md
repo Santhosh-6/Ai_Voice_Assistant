@@ -18,9 +18,7 @@
 |------------------|-------------------|
 | Language Model   | Gemini API        |
 | GUI Framework    | PyQt (Qt for Python) |
-| Language         | Python 3.x        |
-| Speech           | `speech_recognition`, `pyttsx3` |
-
+| Language         | Python             |
 
 
 ## 🚀 Getting Started
